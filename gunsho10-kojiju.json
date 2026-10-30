@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kojiju",
  "yomi": "こじじゅうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期〜鎌倉初期",
+  "author": "小侍従",
+  "desc": "「待宵の小侍従」と呼ばれた小侍従の家集。四季・恋・雑の歌を収め、左大将家百首や正治百首の歌も見える。勅撰集に入った歌には集名を注記する。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1789,6 +1794,6 @@
   "poems": 155,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
